@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm D̷i̷a̷n̷a̷<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg) -->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Computer+science+student)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Computer+science+student)(https://git.io/typing-svg)
 
 A student at UI, have finished the Samsung IT School.
 
@@ -15,3 +15,4 @@ A student at UI, have finished the Samsung IT School.
 
 
 ![xtersery GitHub stats](https://github-readme-stats.vercel.app/api?username=xtersery&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
